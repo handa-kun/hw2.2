@@ -15,8 +15,4 @@ public class C {
     public Object rr() {
         return null;
     }
-
-    public Object pp() {
-        return this;
-    }
 }
